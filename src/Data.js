@@ -1,0 +1,1 @@
+export const tasks=[{desc:"task1",id:0,isdone:true},{desc:"task2",id:1,isdone:false},{desc:"task3",id:2,isdone:true}]
